@@ -9,5 +9,6 @@ Genre: FPS<br>
 - Item get and use system<br>
 - Zombie enemy attack and die<br><br>
 
-<img src="https://github.com/TeddyUm/Unity_Makit_ClickerPendemic_Repo/blob/master/1676531402416.jpg" width="800" height="500">
+<img src="https://github.com/TeddyUm/Unity_ZombieFPS/blob/main/1677103101598.jpg" width="500" height="300">
+<img src="https://github.com/TeddyUm/Unity_ZombieFPS/blob/main/1677103101598.jpg" width="500" height="300">
 <a href="https://docs.google.com/presentation/d/18j9Gx9YLHrqaeKkUlZnkfF3Z_pHmEcWo/edit#slide=id.p1">ZombieFPS Youtube Link</a>
