@@ -4,7 +4,8 @@
 Genre: FPS<br>
 
 <h4>Function</h4>
-- 3 Move, Fire and jump with animations<br>
+- FPS player controller<br>
+- Move, Fire and jump with animations<br>
 - Weapon change system<br>
 - Item get and use system<br>
 - Zombie enemy attack and die<br><br>
